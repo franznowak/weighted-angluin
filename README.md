@@ -1,2 +1,2 @@
-# weighted-angluin
-A repository implementing active learning algorithms for weighted finite state automata
+# WFSA
+A repository implementing algorithms for manipulating and learning weighted finite state automata
